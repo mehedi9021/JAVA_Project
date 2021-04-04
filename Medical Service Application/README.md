@@ -1,5 +1,5 @@
 # Medical_Service_Application
-The purpose of the project entitled “Medical Service Application” is to computerize the Front Office Management of Hospital to develop an application which is user-friendly simple, fast, and cost-effective. It deals with the collection of doctor's information, patient’s information, diagnosis details, etc. The main function of the system is register and store patient details and doctor details and retrieve these details as and when required.
+<p align="justify">The purpose of the project entitled “Medical Service Application” is to computerize the Front Office Management of Hospital to develop an application which is user-friendly simple, fast, and cost-effective. It deals with the collection of doctor's information, patient’s information, diagnosis details, etc. The main function of the system is register and store patient details and doctor details and retrieve these details as and when required.
 
 Scope of the Project:<br>
 a. Individual section for the doctors, patients and admins.<br>
