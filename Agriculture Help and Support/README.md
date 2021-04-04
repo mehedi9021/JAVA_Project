@@ -1,5 +1,5 @@
 # Agriculture_Help_and_Support
-Agriculture is the largest employment sector in Bangladesh. The performance of this sector has an overwhelming impact on major macroeconomic objectives like employment generation, poverty alleviation, human resources development, food security, etc. “Agriculture Help and Support” is farmer management application that helps farmers to give best-practice farming processes. It helps farmers to improve their productivity and profitability.
+<p align=”justify”>Agriculture is the largest employment sector in Bangladesh. The performance of this sector has an overwhelming impact on major macroeconomic objectives like employment generation, poverty alleviation, human resources development, food security, etc. “Agriculture Help and Support” is farmer management application that helps farmers to give best-practice farming processes. It helps farmers to improve their productivity and profitability.
 
 Salient Features:<br>
 a. Separate login functionalities for admin and user.<br>
