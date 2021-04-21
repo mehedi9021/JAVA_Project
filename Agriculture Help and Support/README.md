@@ -11,5 +11,5 @@ f. A specific username and password have fixed for admins to log in the applicat
 g. Admins can see the information that the user has provided during registration which will be displayed from the database.
 
 **Languages:** Java<br>
-Frameworks: Java Gui<br>
-Databases: MySQL
+**Frameworks:** Java Gui<br>
+**Databases:** MySQL
